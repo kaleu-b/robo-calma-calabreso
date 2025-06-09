@@ -1,14 +1,13 @@
 package calmacalabreso;
 import robocode.*;
-//import java.awt.Color;
+import java.awt.Color;
 
 // API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.html
 
 /**
  * Calma_calabreso - a robot by (Kanna e Kaleu)
  */
-public class Calma_calabreso extends Robot
-{
+public class Calma_calabreso extends AdvancedRobot {
 	/**
 	 * run: Calma_calabreso's default behavior
 	 */
