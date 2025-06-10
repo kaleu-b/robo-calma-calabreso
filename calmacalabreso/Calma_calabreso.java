@@ -12,14 +12,12 @@ public class Calma_calabreso extends AdvancedRobot {
 	 * run: Calma_calabreso's default behavior
 	 */
 	public void run() {
-		// Initialization of the robot should be put here
-
-		// After trying out your robot, try uncommenting the import at the top,
-		// and the next line:
-
-		// setColors(Color.red,Color.blue,Color.green); // body,gun,radar
-
-		// Robot main loop
+		//mudando as cores do calma calabreso
+		setBodyColor(Color.black); //cor do corpo (ou lataria)
+		setRadarColor(Color.red);  //cor do radar
+		setGunColor(Color.black);  //cor da arma
+		setBulletColor(Color.magenta); //cor da bala
+		
 		while(true) {
 			// Replace the next 4 lines with any behavior you would like
 			ahead(100);
