@@ -1,4 +1,4 @@
-package calmacalabreso;
+package robo-calma-calabreso;
 import robocode.*;
 import java.awt.Color;
 
