@@ -5,7 +5,7 @@ import java.awt.Color;
 // API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.html
 
 /**
- * Calma_calabreso - a robot by (Kanna, Kaleu, Mi e Rafa) 
+ * Calma_calabreso - a robot by (Kanna, Kaleu, Mi e Rafa) testando funcionamento
  */
 public class Calma_calabreso extends AdvancedRobot {
 	/**
